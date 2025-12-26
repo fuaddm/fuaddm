@@ -32,15 +32,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🔥 Github Streaks
-<p>
-<a href="https://github.com/fuaddm"><img src="https://streak-stats.demolab.com?user=fuaddm&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
-</p>
 
 ### 👀 Stats
 <div style="display: flex;">
-        <a href="https://github.com/fuaddm" style="margin-right: 5px;" target="_blank">
-                <img align="left" src="https://github-readme-stats.vercel.app/api?username=fuaddm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="fuaddm | Stats" />
-        </a>
         <a style="left: 5px;" href="https://github.com/fuaddm" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuaddm&show_icons=true&locale=en&layout=compact&theme=radical" alt="fuaddm" /></a>
 </div>
